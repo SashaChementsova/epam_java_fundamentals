@@ -6,11 +6,8 @@ import java.util.Objects;
 
 public class Directory {
     private String name;
-
     private List<Directory> directoryList;
-
     private List<File> fileList;
-
     private Object getName;
 
     {
