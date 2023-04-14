@@ -1,7 +1,7 @@
 package org.basics.of.software.code.development.linear.programs;
 
 import java.util.Scanner;
-
+//Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
 public class Task1 {
     public static double getResultOfFunction(double a, double b, double c){
         return ((a-3)*b/2)+c;

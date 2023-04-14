@@ -1,7 +1,8 @@
 package org.basics.of.software.code.development.cycles;
 
 import java.util.Scanner;
-
+//Напишите программу, где пользователь вводит любое целое положительное число. А программа суммирует
+//все числа от 1 до введенного пользователем числа.
 public class Task1 {
     public static int checkNum(){
         Scanner sc=new Scanner(System.in);

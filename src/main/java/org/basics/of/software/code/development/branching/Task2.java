@@ -1,7 +1,7 @@
 package org.basics.of.software.code.development.branching;
 
 import java.util.Scanner;
-
+//Найти max{min(a, b), min(c, d)}.
 public class Task2 {
     public static double getResult(double a,double b,double c,double d){
         return Math.max(Math.min(a,b),Math.min(c,d));

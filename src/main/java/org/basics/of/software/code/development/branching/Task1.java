@@ -1,7 +1,8 @@
 package org.basics.of.software.code.development.branching;
 
 import java.util.Scanner;
-
+// Даны два угла треугольника (в градусах). Определить, существует ли такой треугольник, и если да, то будет ли
+//он прямоугольным.
 public class Task1 {
     public static String checkTriangle(double angle1,double angle2){
         double sum=angle1+angle2;

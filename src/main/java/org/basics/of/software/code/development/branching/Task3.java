@@ -1,7 +1,7 @@
 package org.basics.of.software.code.development.branching;
 
 import java.awt.*;
-
+//Даны три точки А(х1,у1), В(х2,у2) и С(х3,у3). Определить, будут ли они расположены на одной прямой.
 public class Task3 {
     public static String checkLine(Point p1,Point p2,Point p3){
         if(((p3.getX() - p1.getX()) *(p2.getY() - p1.getY())- (p2.getX() - p1.getX())*(p3.getY() - p1.getY()) )==0){

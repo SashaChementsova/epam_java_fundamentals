@@ -2,7 +2,8 @@ package org.basics.of.software.code.development.branching;
 
 import java.awt.*;
 import java.util.Scanner;
-
+//Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича. Определить, пройдет ли кирпич через
+//отверстие.
 public class Task4 {
     public static String checkResult(double A, double B, double x, double y, double z){
         if((x<=B&&y<=A)||(x<=A&&y<=B)||(x<=B&&z<=A)||(x<=A&&z<=B)||(y<=A&&z<=B)||(y<=B&&z<=A)){

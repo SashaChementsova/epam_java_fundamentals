@@ -1,5 +1,5 @@
 package org.basics.of.software.code.development.cycles;
-
+//Составить программу нахождения произведения квадратов первых двухсот чисел.
 import java.util.Scanner;
 
 public class Task4 {
