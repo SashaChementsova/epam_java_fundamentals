@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Port xmlns="https://javadevblog.com/students">
+  <Ship>
+    <Id>1</Id>
+    <Capacity>345.0</Capacity>
+    <Name>Alto</Name>
+    <TypeOfCargo>Cars</TypeOfCargo>
+  </Ship>
+  <Ship>
+    <Id>2</Id>
+    <Capacity>45.0</Capacity>
+    <Name>Tekko</Name>
+    <TypeOfCargo>Foods</TypeOfCargo>
+  </Ship>
+</Port>

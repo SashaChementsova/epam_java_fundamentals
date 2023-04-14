@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Archive xmlns="https://javadevblog.com/students">
+  <Student>
+    <Id>1</Id>
+    <Surname>Chementsova</Surname>
+    <Name>Sasha</Name>
+    <Group>72303</Group>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <Surname>Kuzmin</Surname>
+    <Name>Egor</Name>
+    <Group>173602</Group>
+  </Student>
+  <Student>
+    <Id>4</Id>
+    <Surname>Kuznetsov</Surname>
+    <Name>Misha</Name>
+    <Group>98456</Group>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <Surname>Petrova</Surname>
+    <Name>Masha</Name>
+    <Group>115203</Group>
+  </Student>
+</Archive>
